@@ -57,6 +57,6 @@
     /* clear: both; */
 }
 
-.leftheader {
-    
+.navbar a{
+    font-size: 45px;
 }
